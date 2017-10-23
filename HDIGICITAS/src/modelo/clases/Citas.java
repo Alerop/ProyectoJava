@@ -10,6 +10,8 @@ public class Citas {
 	private Pacientes pacientes;
 	private Profesionales profesionales;
 	
+	//private int idPac = pacientes.getId_paciente();  //??
+	
 	
 	public Citas(DateTime idfechaHora, Pacientes paciente, Profesionales profesional) {
 		this.id_fechaHora = idfechaHora;
