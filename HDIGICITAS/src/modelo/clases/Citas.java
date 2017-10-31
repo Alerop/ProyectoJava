@@ -5,15 +5,13 @@ import org.joda.time.DateTime;
 public class Citas {
 
 	private DateTime id_fechaHora;
-	
-	//para poder coger las claves foraneas
 	private Pacientes pacientes;
 	private Profesionales profesionales;
 	
-	//private int idPac = pacientes.getId_paciente();  //??
+
 	
 	
-	public Citas(DateTime idfechaHora, Pacientes paciente, Profesionales profesional) {
+	public Citas(DateTime idfechaHora, Pacientes pacientes, Profesionales profesionales) {
 		this.id_fechaHora = idfechaHora;
 		this.pacientes = pacientes;
 		this.profesionales = profesionales;

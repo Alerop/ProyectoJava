@@ -1,0 +1,10 @@
+Información básica del proyecto.
+
+-- Los JARS se encuentran en libs -- 
+-- La BD se encuentra en src/modelo.tablas  -  A aclarar, la BD da fallo inicialmente, viene comentada en el mismo codigo sql como arreglarla
+					    -  Se deja la base con ese fallo inicial para asegurar que se revisa y se investiga bien el proyecto
+
+-- Aun no es posible probar el proyecto ya que aun se encuentra en proceso y aun estoy inmerso en un mar de dudas que debería de saber de 
+	primero, pero Juan el profesor que tube, no dió los temas relacionados con Colecciones y acceso a BD, usando el proyecto 'eshop'
+	es como estoy intentando aprender e intentar realizar el proyecto, nadie mas siente esto que yo, el no tener los conocimientos
+	necesarios. Estoy haciendo lo que puedo, ruego me disculpe.

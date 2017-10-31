@@ -5,8 +5,6 @@ public class Diagnosticos {
 	private int id_diagnostico;
 	private int dia_cantidad,dia_precio;
 	private String dia_descripcion,dia_alergias,dia_prescripcion,dia_instrucciones,dia_observaciones;
-	
-	//para poder llamar a la fk de pacientes y profesionales, sigo sin tenerlo claro
 	private Pacientes pacientes;
 	private Profesionales profesionales;
 	
